@@ -1,18 +1,19 @@
 * {
-    margin: 0;
+    margin: 5px;
     padding: 0;
     box-sizing: border-box;
 }
 body {
     font-family: "Lato", sans-serif;
+    background: green;
 }
 
 h2 {
-    font-size: 5rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 .anniversary {
-    min-height: 100vh;
+    min-height: 30vh;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -24,8 +25,12 @@ h2 {
     text-align: center;
 }
 .day, .hour, .minute, .second {
-    font-size: 3rem;
+    font-size: 2rem;
 }
+h3 {
+    font-size: 1rem;
+}
+
 
 
 
