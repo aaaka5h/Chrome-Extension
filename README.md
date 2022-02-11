@@ -1,5 +1,5 @@
 # Chrome-Extension
 
 ### 1 Year Anniversary Countdown ###
-- This is my first attempt at creating a simple chrome extension.
-- Made using HTML and Javascript
+- Valentines day present for Emma
+- This extension is currently under review and is expected to be published in <72 hours
