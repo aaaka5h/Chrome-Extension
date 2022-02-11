@@ -2,7 +2,7 @@
     "name": "Valentines extension",
     "version": "0.0.1",
     "description": "for emma",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "browser_action": {
         "default_popup": "index.html",
         "default_icon": "emmaAndI.png"
