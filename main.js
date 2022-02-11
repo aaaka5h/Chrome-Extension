@@ -15,7 +15,7 @@ const countdown = () => {
     const minuteText = Math.floor((timeRemaining % hour) / minute);
     const secondText = Math.floor((timeRemaining % minute) / second);
 
-    // display
+    // Countdown text
     document.querySelector(".day").innerText = dayText;
     document.querySelector(".hour").innerText = hourText;
     document.querySelector(".minute").innerText = minuteText;

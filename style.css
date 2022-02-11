@@ -11,7 +11,7 @@ h2 {
     font-size: 5rem;
     font-weight: bold;
 }
-.coming-soon {
+.anniversary {
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -26,5 +26,6 @@ h2 {
 .day, .hour, .minute, .second {
     font-size: 3rem;
 }
+
 
 
