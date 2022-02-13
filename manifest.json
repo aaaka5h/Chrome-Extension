@@ -1,9 +1,9 @@
 {
     "name": "Valentines extension",
     "version": "0.0.1",
-    "description": "for emma",
+    "description": "Extensions displays a countdown til my 1 year anniversary with my girlfriend.",
     "manifest_version": 3,
-    "browser_action": {
+    "action": {
         "default_popup": "index.html",
         "default_icon": "emmaAndI.png"
     }
