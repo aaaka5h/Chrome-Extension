@@ -1,7 +1,7 @@
 {
     "name": "Valentines extension",
     "version": "0.0.1",
-    "description": "Extensions displays a countdown til my 1 year anniversary with my girlfriend.",
+    "description": "Extension displays a countdown til my 1 year anniversary with my girlfriend.",
     "manifest_version": 3,
     "action": {
         "default_popup": "index.html",
