@@ -1,4 +1,4 @@
 # Chrome-Extension
 
 ### 1 Year Anniversary Countdown ###
-- Valentines day present for Emma
+- Simple Valentines day Chrome Extension for Emma
